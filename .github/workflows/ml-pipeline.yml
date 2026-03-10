@@ -18,4 +18,4 @@ jobs:
       - name: Train model
         run: python src/train.py
       - name: Run tests
-        
+        run: python -m pytest src/test_model.py -v
