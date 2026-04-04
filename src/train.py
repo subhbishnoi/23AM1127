@@ -6,7 +6,7 @@ from sklearn.model_selection import train_test_split
 import joblib
 import os
 
-mlflow.set_tracking_uri("file:///C:/Users/Subhash Bishnoi/Documents/23AM1127/mlruns")
+mlflow.set_tracking_uri("mlruns")
 
 X, y = load_iris(return_X_y=True)
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
