@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Subhash Bishnoi/Documents/23AM1127/mlruns/0/4c5bbbadab7d4410ae33d15cc513f9c3/artifacts
+end_time: 1775327241563
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4c5bbbadab7d4410ae33d15cc513f9c3
+run_name: resilient-kit-151
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775327235287
+status: 3
+tags: []
+user_id: Subhash Bishnoi

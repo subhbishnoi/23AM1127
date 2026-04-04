@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Subhash Bishnoi/Documents/23AM1127/mlruns/0/models/m-5513dfff07594e4bbac0111549bf345b/artifacts
+creation_timestamp: 1775327235649
+experiment_id: '0'
+last_updated_timestamp: 1775327241540
+model_id: m-5513dfff07594e4bbac0111549bf345b
+model_type: null
+name: model
+source_run_id: 4c5bbbadab7d4410ae33d15cc513f9c3
+status: 2
+status_message: null

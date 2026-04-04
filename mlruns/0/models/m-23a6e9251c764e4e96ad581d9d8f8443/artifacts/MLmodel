@@ -1,0 +1,23 @@
+artifact_path: file:///C:/Users/Subhash Bishnoi/Documents/23AM1127/mlruns/0/models/m-23a6e9251c764e4e96ad581d9d8f8443/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.5
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+    skops_trusted_types: null
+mlflow_version: 3.10.1
+model_id: m-23a6e9251c764e4e96ad581d9d8f8443
+model_size_bytes: 92249
+model_uuid: m-23a6e9251c764e4e96ad581d9d8f8443
+prompts: null
+run_id: 0a75271724bc4cdb9c3d1576e3b5602d
+utc_time_created: '2026-04-04 18:27:01.358589'
